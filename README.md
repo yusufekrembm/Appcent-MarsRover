@@ -1,6 +1,15 @@
 # Appcent-MarsRover
 # Appcent Internship Project
 
+This is an application that you can check some mars rovers and rovers informations.
+Informations are ..
+-Date
+-Rover Name
+-Camera Name
+-Status
+-Launch Date
+-Landing Date
+-Detailed Image
 
 
 # Includings
