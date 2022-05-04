@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/ic_coroutines"
+        android:icon="@drawable/ic_baseline_airplanemode_active_24"
+        android:title="Coroutines"/>
+    <item
+        android:id="@+id/ic_opportunity"
+        android:icon="@drawable/ic_baseline_airplanemode_active_24"
+        android:title="Opportunity"/>
+    <item
+        android:id="@+id/ic_spirit"
+        android:icon="@drawable/ic_baseline_airplanemode_active_24"
+        android:title="Spirit"/>
+</menu>
