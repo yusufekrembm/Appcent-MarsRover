@@ -32,6 +32,5 @@ https://api.nasa.gov/mars-photos/api/v1/rovers/curiosity/photos?sol=1000&api_key
 <img src="https://user-images.githubusercontent.com/88238748/166802559-18491fdb-5bcc-4e35-b65d-5df372221f66.png" width="300">
 <img src="https://user-images.githubusercontent.com/88238748/166802589-60ae0958-dd4a-487e-b426-140bb5949718.png" width="300">
 
-Note : 1-2 things is not finished yet.
 
 
