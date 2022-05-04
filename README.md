@@ -4,13 +4,13 @@
 This is an application that you can check some mars rovers and rovers informations when you click on Item.
 Informations are ..
 
--Date
--Rover Name
--Camera Name
--Status
--Launch Date
--Landing Date
--Detailed Image
+- Date
+- Rover Name
+- Camera Name
+- Status
+- Launch Date
+- Landing Date
+- Detailed Image
 
 Note :  There are same item informations about landing, launch date in API so looking same in samples. You can check API also.
 
