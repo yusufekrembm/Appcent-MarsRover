@@ -11,6 +11,7 @@ Informations are ..
 -Landing Date
 -Detailed Image
 
+Note :  There are same item informations about landing, launch date in API so looking same in samples. You can check API also.
 
 # Includings
 - MVVM Pattern
@@ -29,5 +30,7 @@ Informations are ..
 <img src="https://user-images.githubusercontent.com/88238748/166802508-a35831df-70f0-4d63-94c1-6e3c9283e50b.png" width="300">
 <img src="https://user-images.githubusercontent.com/88238748/166802559-18491fdb-5bcc-4e35-b65d-5df372221f66.png" width="300">
 <img src="https://user-images.githubusercontent.com/88238748/166802589-60ae0958-dd4a-487e-b426-140bb5949718.png" width="300">
+
+Note : 1-2 things is not finished yet.
 
 
